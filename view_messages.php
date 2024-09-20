@@ -28,7 +28,7 @@ if (isset($_GET["DelId"])) {
 </head>
 <body>
     <header>
-        <img src="images/SOL TECH SOLUTIONS.png" alt="SolTech Solutions Logo">
+        <img src="images/NANA TECH SOLUTIONS.png" alt="NanaTech Solutions Logo">
         <h1>Contact Us Messages</h1>
         <?php include_once("templates/nav.php");?>
     </header>

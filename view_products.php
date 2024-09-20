@@ -42,12 +42,12 @@ if (isset($_POST["submit"])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Product List - SOL TECH SOLUTIONS</title>
+    <title>Product List - NANA TECH SOLUTIONS</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <img src="images/SOL TECH SOLUTIONS.png" alt="SolTech Solutions Logo">
+        <img src="images/NANA TECH SOLUTIONS.png" alt="NanaTech Solutions Logo">
         <h1>Product List</h1>
         <?php include_once("templates/nav.php"); ?>
     </header>

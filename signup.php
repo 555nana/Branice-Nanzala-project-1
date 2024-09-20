@@ -92,7 +92,7 @@ if (isset($_POST["sign_up"])) {
 </head>
 <body>
     <header>
-        <img src="images/SOL TECH SOLUTIONS.png" alt="SolTech Solutions Logo">
+        <img src="images/NANA TECH SOLUTIONS.png" alt="NanaTech Solutions Logo">
     </header>
     <div class="container">
         <h1>Join us today!</h1>

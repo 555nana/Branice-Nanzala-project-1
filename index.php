@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SOL TECH SOLUTIONS - Home</title>
+    <title>NANA TECH SOLUTIONS - Home</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <img src="images/SOL TECH SOLUTIONS.png" alt="SolTech Solutions Logo">
-        <h1>Welcome to SOL TECH SOLUTIONS</h1>
+        <img src="images/NANA TECH SOLUTIONS.png" alt="NanaTech Solutions Logo">
+        <h1>Welcome to NANA TECH SOLUTIONS</h1>
         <?php include_once("templates/nav.php");?>
 
     </header>
@@ -17,7 +17,7 @@
     <main>
         <section class="about">
             <h2>About Us</h2>
-            <p>Welcome to SOL TECH SOLUTIONS, where we strive to deliver excellence in every service we provide.</p>
+            <p>Welcome to NANA TECH SOLUTIONS, where we strive to deliver excellence in every service we provide.</p>
             <a href="about.html" class="btn">Learn More</a>
         </section>
         <section class="featured-services">
@@ -36,7 +36,7 @@
         <section class="testimonials">
             <h2>What Our Clients Say</h2>
             <div class="testimonial">
-                <p>"SOL TECH SOLUTIONS transformed our business with their exceptional web development services!"</p>
+                <p>"NANA TECH SOLUTIONS transformed our business with their exceptional web development services!"</p>
                 <h3>- Jane Doe, CEO of DoeCorp</h3>
             </div>
         </section>

@@ -10,7 +10,7 @@
 </head>
 <body>
     <header>
-        <img src="images/NANA TECH SOLUTIONS.png" alt="SolTech Solutions Logo" class="logo">
+        <img src="images/NANA TECH SOLUTIONS.png" alt="NanaTech Solutions Logo" class="logo">
         <h1>Contact Us</h1>
         <?php include_once("templates/nav.php");?>
 
